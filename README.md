@@ -1,6 +1,6 @@
 # Password Transformation Tool or SimilarPass
 
-```vbnet
+```bash
 Remember. When you create a password and then add 123 to it after a while, it is not a new password, but exactly the same as the old one
 ``` 
 ## Overview
@@ -42,7 +42,7 @@ The Python script `SimilarPass.py` reads the configuration and applies the enabl
 2. Place the `config.json` in the same directory as the script.
 3. Run the script using the command:
 ```python
-SimilarPassr.py
+SimilarPass.py
 ```
 4. Input passwords as prompted or modify the script to handle batch processing.
 
