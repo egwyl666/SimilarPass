@@ -1,0 +1,22 @@
+{
+  "capitalize_first": true,
+  "all_caps": true,
+  "reverse": true,
+  "reverse_upper": true,
+  "reverse_letters_numbers": true,
+  "reverse_upper_letters": true,
+  "upper_no_numbers": true,
+  "numbers_only": true,
+  "numbers_reverse_letters": true,
+  "numbers_reverse_upper_letters": true,
+  "chess_case": true,
+  "reverse_chess_case": true,
+  "symmetric_mirror": true,
+  "mirror_second_half": true,
+  "mirror_first_half_original": true,
+  "mirror_second_half_original": true,
+  "prefixes": ["1", "12", "666", "13", "123", "777", "76", "11", "21", "!", "@", "#", "$", "%", "&", "*", "1488", "79", "314", "18", "0", "42", "7", "8", "911", "15", "365","1000-7", "888", "777", "1221", "1331", "14", "1441"],
+  "suffixes": ["1", "12", "666", "13", "123", "777", "76", "11", "21", "!", "@", "#", "$", "%", "&", "*", "1488", "79", "314", "18", "0", "42", "7", "8", "911", "15", "365","1000-7", "888", "777", "1221", "1331", "14", "1441"],
+  "enable_prefix_suffix": true
+
+}
